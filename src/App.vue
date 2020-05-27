@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     最新版
+    qwerrr
     <HelloWorld/>
   </div>
 </template>
