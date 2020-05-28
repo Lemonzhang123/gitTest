@@ -3,12 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 Vue.config.productionTip = false
-<<<<<<< HEAD
 333333qwww
-=======
 12345asasasas
 333333
->>>>>>> test
+233333
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
