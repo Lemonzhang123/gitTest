@@ -2,6 +2,8 @@
   <div id="app">
     qwerrrwww
     新增233
+    最新版
+    qwerrr
     <HelloWorld/>
   </div>
 </template>
