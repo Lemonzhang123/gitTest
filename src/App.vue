@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    qwerrr
+    qwerrrwww
+    新增
     <HelloWorld/>
   </div>
 </template>
