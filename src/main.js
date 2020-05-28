@@ -3,7 +3,6 @@
 import Vue from 'vue'
 import App from './App'
 Vue.config.productionTip = false
-12345asasasas
 333333
 233333
 /* eslint-disable no-new */
